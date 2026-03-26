@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FinancialManagement.Application/FinancialManagement.Application.csproj" />
+    <Project Path="FinancialManagement.Domain/FinancialManagement.Domain.csproj" />
+    <Project Path="FinancialManagement.Infrastructure/FinancialManagement.Infrastructure.csproj" Id="d4bdc7ad-77fe-4cd9-b826-e02123d4fc88" />
+    <Project Path="FinancialManagement.Persistence/FinancialManagement.Persistence.csproj" Id="e2d5c28d-323f-4599-bf05-63d38cdf85b5" />
+    <Project Path="FinancialManagement.Presentation/FinancialManagement.Presentation.csproj" Id="d366587e-a023-44bb-8d87-cc8cacfd2604" />
+    <Project Path="FinancialManagement.WebApi/FinancialManagement.WebApi.csproj" Id="dcfa13c0-6942-4fc1-9654-ce981a7e61fa" />
+  </Folder>
+</Solution>
