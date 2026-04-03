@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BDC7AD-77FE-4CD9-B826-E02123D4FC88}|FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.infrastructure\\financialmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D4BDC7AD-77FE-4CD9-B826-E02123D4FC88}|FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj|solutionrelative:financialmanagement.infrastructure\\financialmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D4BDC7AD-77FE-4CD9-B826-E02123D4FC88}|FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDC7AD-77FE-4CD9-B826-E02123D4FC88}|FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj|solutionrelative:financialmanagement.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BDC7AD-77FE-4CD9-B826-E02123D4FC88}|FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BDC7AD-77FE-4CD9-B826-E02123D4FC88}|FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj|solutionrelative:financialmanagement.infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36237AA-73DF-8335-BF82-697A87B43D08}|FinancialManagement.Application\\FinancialManagement.Application.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.application\\features\\users\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36237AA-73DF-8335-BF82-697A87B43D08}|FinancialManagement.Application\\FinancialManagement.Application.csproj|solutionrelative:financialmanagement.application\\features\\users\\commands\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFA13C0-6942-4FC1-9654-CE981A7E61FA}|FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFA13C0-6942-4FC1-9654-CE981A7E61FA}|FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj|solutionrelative:financialmanagement.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\factories\\usersfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\factories\\usersfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\objectvalues\\ageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\objectvalues\\ageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36237AA-73DF-8335-BF82-697A87B43D08}|FinancialManagement.Application\\FinancialManagement.Application.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.application\\features\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36237AA-73DF-8335-BF82-697A87B43D08}|FinancialManagement.Application\\FinancialManagement.Application.csproj|solutionrelative:financialmanagement.application\\features\\users\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFA13C0-6942-4FC1-9654-CE981A7E61FA}|FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.webapi\\financialmanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCFA13C0-6942-4FC1-9654-CE981A7E61FA}|FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj|solutionrelative:financialmanagement.webapi\\financialmanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.domain\\exceptions\\user\\useragenotvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0483A0-3673-24EE-5E3C-9AA275D5EAC3}|FinancialManagement.Domain\\FinancialManagement.Domain.csproj|solutionrelative:financialmanagement.domain\\exceptions\\user\\useragenotvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36237AA-73DF-8335-BF82-697A87B43D08}|FinancialManagement.Application\\FinancialManagement.Application.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.application\\abstractions\\repositories\\iuserqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36237AA-73DF-8335-BF82-697A87B43D08}|FinancialManagement.Application\\FinancialManagement.Application.csproj|solutionrelative:financialmanagement.application\\abstractions\\repositories\\iuserqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCFA13C0-6942-4FC1-9654-CE981A7E61FA}|FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj|c:\\users\\nguyen thanh tuan\\source\\repos\\fmp-api\\financialmanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,8 +69,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "DockedWidth": 309,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,34 +158,191 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "FinancialManagement.Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:09:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FinancialManagement.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
-              "RelativeToolTip": "FinancialManagement.Infrastructure\\FinancialManagement.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T14:59:24.683Z",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "FinancialManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:16:23.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Entities\\Users.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:14:36.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:02:30.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:58:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Factories\\UsersFactory.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\Factories\\UsersFactory.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Factories\\UsersFactory.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\Factories\\UsersFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:59:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgeUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\ObjectValues\\AgeUser.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\ObjectValues\\AgeUser.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\ObjectValues\\AgeUser.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\ObjectValues\\AgeUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:14:40.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FinancialManagement.WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:05:02.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:04:25.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "FinancialManagement.Application\\Features\\Users\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:02:29.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:55:32.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAgeNotValid.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Exceptions\\User\\UserAgeNotValid.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Domain\\Exceptions\\User\\UserAgeNotValid.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Domain\\Exceptions\\User\\UserAgeNotValid.cs",
+              "RelativeToolTip": "FinancialManagement.Domain\\Exceptions\\User\\UserAgeNotValid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:57:14.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinancialManagement.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj",
+              "RelativeDocumentMoniker": "FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj",
+              "RelativeToolTip": "FinancialManagement.WebApi\\FinancialManagement.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T04:13:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Application\\Abstractions\\Repositories\\IUserQueryRepository.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.Application\\Abstractions\\Repositories\\IUserQueryRepository.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.Application\\Abstractions\\Repositories\\IUserQueryRepository.cs",
+              "RelativeToolTip": "FinancialManagement.Application\\Abstractions\\Repositories\\IUserQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:55:17.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "FinancialManagement.WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\Nguyen Thanh Tuan\\source\\repos\\FMP-api\\FinancialManagement.WebApi\\Program.cs",
               "RelativeToolTip": "FinancialManagement.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T14:56:18.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T14:56:18.04Z"
             }
           ]
         },
         {
-          "DockedWidth": 450,
+          "DockedWidth": 341,
           "SelectedChildIndex": -1,
           "Children": [
             {

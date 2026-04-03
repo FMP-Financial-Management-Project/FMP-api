@@ -6,6 +6,6 @@ namespace FinancialManagement.Domain.Exceptions.User
 {
     public class UserAgeNotValid : DomainException
     {
-        public UserAgeNotValid(string? message) : base($"AgeUser {message} user not correct!") { }
+        public UserAgeNotValid(int age) : base($"User age {age} is not valid. Must be >= 18 and <= 25") { }
     }
 }

@@ -19,8 +19,6 @@
   <ItemGroup>
     <ProjectReference Include="..\FinancialManagement.Application\FinancialManagement.Application.csproj" />
     <ProjectReference Include="..\FinancialManagement.Infrastructure\FinancialManagement.Infrastructure.csproj" />
-    <ProjectReference Include="..\FinancialManagement.Persistence\FinancialManagement.Persistence.csproj" />
-    <ProjectReference Include="..\FinancialManagement.Presentation\FinancialManagement.Presentation.csproj" />
   </ItemGroup>
 
 </Project>

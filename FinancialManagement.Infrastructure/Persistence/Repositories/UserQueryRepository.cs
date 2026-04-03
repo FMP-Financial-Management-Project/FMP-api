@@ -16,7 +16,7 @@ namespace FinancialManagement.Infrastructure.Persistence.Repositories
         public async Task<List<UserDto>> GetAllUserAsync(CancellationToken cancellationToken = default)
         {
             var query = _queryFactory.Query("Users")
-                                    .Select("Id", "Age_Age as Age", "Role", "Name");
+                                    .Select("Id", "Age_Age as Value", "Role", "Name");
 
             var user = await query.GetAsync<UserDto>(cancellationToken: cancellationToken);
 

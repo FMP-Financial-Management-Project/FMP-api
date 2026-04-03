@@ -1,23 +1,24 @@
 ﻿using FinancialManagement.Domain.Exceptions.User;
-using System;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
-using System.Text;
 
 namespace FinancialManagement.Domain.ObjectValue
 {
     public sealed record AgeUser
     {
-        public int Age { get; set; }
+        public int Value { get; init; }
 
-        public AgeUser(int age)
+        private AgeUser(int age) => Value = age;
+
+        public static AgeUser Create(int age)
         {
             if (age < 18 || age > 25)
             {
-                throw new UserAgeNotValid(age.ToString());
+                throw new UserAgeNotValid(age);
             }
 
-            Age = age;
+            return new AgeUser(age);
         }
+
+        public static implicit operator AgeUser(int age) => Create(age);
+        public static implicit operator int(AgeUser ageUser) => ageUser.Value;
     }
 }

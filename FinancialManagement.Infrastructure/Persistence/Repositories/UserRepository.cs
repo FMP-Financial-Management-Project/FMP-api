@@ -21,9 +21,9 @@ namespace FinancialManagement.Infrastructure.Persistence.Repositories
             return await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<Users> GetUserByIdAsync(Guid id)
+        public async Task<Users?> GetUserByIdAsync(Guid id)
         {
-            return await _dbContext.Users.FirstOrDefaultAsync(p => p.Id == id) ?? new Users();
+            return await _dbContext.Users.FirstOrDefaultAsync(p => p.Id == id);
         }
     }
 }

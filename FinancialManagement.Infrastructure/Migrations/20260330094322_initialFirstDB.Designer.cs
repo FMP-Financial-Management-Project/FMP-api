@@ -244,12 +244,12 @@ namespace FinancialManagement.Infrastructure.Migrations
 
             modelBuilder.Entity("FinancialManagement.Domain.Entities.Users", b =>
                 {
-                    b.OwnsOne("FinancialManagement.Domain.ObjectValue.AgeUser", "Age", b1 =>
+                    b.OwnsOne("FinancialManagement.Domain.ObjectValue.AgeUser", "Value", b1 =>
                         {
                             b1.Property<Guid>("UsersId")
                                 .HasColumnType("uniqueidentifier");
 
-                            b1.Property<int>("Age")
+                            b1.Property<int>("Value")
                                 .HasColumnType("int");
 
                             b1.HasKey("UsersId");
@@ -260,7 +260,7 @@ namespace FinancialManagement.Infrastructure.Migrations
                                 .HasForeignKey("UsersId");
                         });
 
-                    b.Navigation("Age")
+                    b.Navigation("Value")
                         .IsRequired();
                 });
 
